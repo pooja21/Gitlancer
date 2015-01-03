@@ -6,6 +6,7 @@ gem 'rails', '4.1.6'
 # Use mongodb as the database for Active Record
 gem "mongo_mapper"
 gem "bson_ext"
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
 # Use Uglifier as compressor for JavaScript assets
