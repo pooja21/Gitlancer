@@ -1,0 +1,27 @@
+{
+  "name": "gitlancer",
+  "version": "0.0.0",
+  "description": "node package manager",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "express": "^4.10.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gitrepo"
+  },
+  "keywords": [
+    "git",
+    "repo",
+    "gitlancer"
+  ],
+  "author": "neha",
+  "license": "ISC"
+}
