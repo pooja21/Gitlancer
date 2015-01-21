@@ -1,0 +1,16 @@
+{
+  "name": "gitlancer",
+  "version": "1.0.0",
+  "authors": [
+    "pooja gangwani <gangwani.pooja@yahoo.com>"
+  ],
+  "description": "A versioning control project",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
